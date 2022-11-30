@@ -1,0 +1,10 @@
+@media (max-width: 960px) {
+    .header__menu-btn img {
+        display: block;
+    }
+}
+@media (max-width: 960px) {
+    .header__menu ul {
+        display: none;
+    }
+}
